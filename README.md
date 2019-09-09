@@ -7,3 +7,8 @@ python -m pip install ipykernel
 
 python -m ipykernel install --user
 ```
+### create Kernele
+
+```
+conda create -n myenv python=3.4
+```
